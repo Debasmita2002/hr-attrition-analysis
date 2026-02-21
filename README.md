@@ -21,6 +21,22 @@ This project performs Exploratory Data Analysis (EDA) on employee attrition data
 • Overtime significantly increases attrition risk  
 • Low job satisfaction leads to higher attrition  
 
+
+## Key Visual Insights
+
+### Overall Attrition Distribution
+![Attrition Overview](01_attrition_overview.png)
+
+### Salary vs Attrition
+![Salary vs Attrition](02_salary_vs_attrition.png)
+
+### Overtime vs Attrition
+![Overtime vs Attrition](03_overtime_vs_attrition.png)
+
+### Attrition by Job Role
+![Job Role vs Attrition](04_jobrole_vs_attrition.png)
+
+
 ## Business Impact
 
 This analysis helps organizations:
@@ -34,4 +50,5 @@ This analysis helps organizations:
 
 • hr_attrition_analysis.ipynb  
 • hr_attrition.csv  
+
 • README.md
