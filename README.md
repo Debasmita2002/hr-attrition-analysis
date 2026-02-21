@@ -13,6 +13,14 @@ This project performs Exploratory Data Analysis (EDA) on employee attrition data
 • Seaborn  
 • Jupyter Notebook  
 
+## Project Workflow
+
+1. Data Cleaning and Preprocessing
+2. Exploratory Data Analysis (EDA)
+3. Feature Engineering (Age Groups, Salary Groups)
+4. Data Visualization
+5. Business Insights and Recommendations
+
 ## Key Insights
 
 • Employees aged 26–35 show highest attrition  
@@ -52,3 +60,4 @@ This analysis helps organizations:
 • hr_attrition.csv  
 
 • README.md
+
